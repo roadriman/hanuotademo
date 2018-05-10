@@ -1,0 +1,9 @@
+﻿  s1.cpp
+c:\users\my\desktop\project1\project1\s1.cpp(85): warning C4326: “main”的返回类型应为“int”而非“void”
+c:\users\my\desktop\project1\project1\s1.cpp(86): warning C4101: “choice”: 未引用的局部变量
+c:\users\my\desktop\project1\project1\s1.cpp(87): warning C4101: “left”: 未引用的局部变量
+c:\users\my\desktop\project1\project1\s1.cpp(87): warning C4101: “buttokkm”: 未引用的局部变量
+c:\users\my\desktop\project1\project1\s1.cpp(87): warning C4101: “top”: 未引用的局部变量
+c:\users\my\desktop\project1\project1\s1.cpp(86): warning C4101: “j”: 未引用的局部变量
+c:\users\my\desktop\project1\project1\s1.cpp(87): warning C4101: “right”: 未引用的局部变量
+  Project1.vcxproj -> C:\Users\My\Desktop\Project1\Debug\Project1.exe
